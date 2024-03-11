@@ -1,13 +1,3 @@
-## Cara menjalankan project melalui Download Google Drive :
-- Pertama, Download Project melalui link drive yang sudah saya lampirkan di email
-- Extract file yang sudah didownload
-- Buka folder pada terminal command prompt atau terminal VSCode
-- lakukan composer update pada direktori project tersebut.
-- Lakukan Import database terlebih dahulu 
-- nama db = test-rentalmobil.sql import ke phpmyadmin / database lainnya.
-- kemudian, ketikkan "php artisan serve" untuk menjalankan project
-- Project running.
-
 ## Cara menjalankan project melalui Github : 
 - Pertama, Clone project meggunakan syntax 
 "git clone https://github.com/fajarpp08/rental-mobil.git"
