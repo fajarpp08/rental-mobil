@@ -1,3 +1,22 @@
+## Cara menjalankan project melalui Download Google Drive :
+- Pertama, Download Project melalui link drive yang sudah saya lampirkan di email
+- Extract file yang sudah didownload
+- Buka folder pada terminal command prompt atau terminal VSCode
+- lakukan composer update pada direktori project tersebut.
+- Lakukan Import database terlebih dahulu 
+- nama db = test-rentalmobil.sql import ke phpmyadmin / database lainnya.
+- kemudian, ketikkan "php artisan serve" untuk menjalankan project
+- Project running.
+
+## Cara menjalankan project melalui Github : 
+- Pertama, Clone project meggunakan syntax 
+"git clone https://github.com/fajarpp08/rental-mobil.git"
+- lakukan "composer update" pada direktori project yang sudah di clone tersebut
+- Lakukan Import database terlebih dahulu 
+- nama db = test-rentalmobil.sql import ke phpmyadmin / database lainnya.
+- kemudian, ketikkan "php artisan serve" untuk menjalankan project
+- Project running.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
